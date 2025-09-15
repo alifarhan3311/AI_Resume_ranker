@@ -1,0 +1,13 @@
+docx2txt
+gradio
+imbalanced-learn
+joblib
+nltk
+numpy
+pandas
+PyMuPDF
+PyPDF2
+scikit-learn
+seaborn
+tensorflow
+wordcloud
